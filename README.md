@@ -2,6 +2,7 @@
 
 I'm 19 and currently learning frontend design.  
 I´m creating clean and modern websites.  
+I´m responsible for the german operations @ atomic networks (atmc.cc)
 I'm also building a small gameserver hosting project — just for fun!  
 This year, I'm excited to start my journey as an IT system integrator apprentice.
 
