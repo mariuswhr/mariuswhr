@@ -1,12 +1,6 @@
-# Hi there, I'm Marius 🌟
+# Hey, I'm Marius 🌟
 
-I'm 19 and currently learning frontend design.  
-I´m creating clean and modern websites.  
-I´m responsible for the german operations @ atomic networks (atmc.cc)
-I'm also building a small gameserver hosting project — just for fun!  
-This year, I'm excited to start my journey as an IT system integrator apprentice.
-
-🤝 Always open to connect and learn from others  
-🌱 Just getting started — but dreaming big
+I'm 19 years old and currently learning frontend development, user interface design, and GLua scripting.
+My main project is [Kobralost Roleplay](https://kobralost-rp.com/), a Garry's Mod DarkRP server that's proudly one of the leading communities in France, with over 120 players online daily. We're now expanding into Germany, and I'm excited to lead this project.
 
 Thanks for stopping by 🩷
